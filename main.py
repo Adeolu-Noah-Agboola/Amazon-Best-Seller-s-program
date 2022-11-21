@@ -133,6 +133,6 @@ while choice != 'Q':
     elif choice == 'Q':
         break
     else:
-        print("\nPlease try again the format of the menu and enter one of the followiwng:")
+        print("\nPlease try again the format of the menu and enter one of the following:")
 
 
